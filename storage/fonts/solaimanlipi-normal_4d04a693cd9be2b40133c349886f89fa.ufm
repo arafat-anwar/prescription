@@ -1,0 +1,127 @@
+StartFontMetrics 4.1
+Notice Converted by PHP-font-lib
+Comment https://github.com/PhenX/php-font-lib
+EncodingScheme FontSpecific
+Copyright This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license and a FAQ is also available at: http://scripts.sil.org/OFL
+FontName SolaimanLipi
+FontSubfamily Normal
+UniqueID AMHS: SolaimanLipi: 2012
+FullName SolaimanLipiNormal
+Version Version 2.000
+PostScriptName SolaimanLipiNormal
+Manufacturer Al Mamun Sumon
+Designer Solaiman Karim
+FontVendorURL http://www.ekushey.org
+FontDesignerURL http://www.ekushey.org
+LicenseDescription This Font Software is licensed under the SIL Open Font License, Version 1.0. No modification of the license is permitted, only verbatim copy is allowed. This license and a FAQ is also available at: http://scripts.sil.org/OFL
+PreferredFamily SolaimanLipi
+PreferredSubfamily Normal
+CompatibleFullName 卯污業慮䱩灩
+Weight Medium
+ItalicAngle 0
+IsFixedPitch false
+UnderlineThickness 78
+UnderlinePosition -106
+FontHeightOffset 90
+Ascender 953
+Descender -284
+FontBBox -670 -367 1205 986
+StartCharMetrics 392
+U 2404 ; WX 446 ; N uni0964 ; G 4
+U 2405 ; WX 460 ; N uni0965 ; G 5
+U 2433 ; WX 1 ; N bn_chandrabindu ; G 6
+U 2434 ; WX 361 ; N bn_anusvar ; G 7
+U 2435 ; WX 375 ; N bn_bisarga ; G 8
+U 2437 ; WX 713 ; N bn_a ; G 9
+U 2438 ; WX 930 ; N bn_aa ; G 10
+U 2439 ; WX 563 ; N bn_i ; G 11
+U 2440 ; WX 616 ; N bn_ii ; G 12
+U 2441 ; WX 617 ; N bn_u ; G 13
+U 2442 ; WX 673 ; N bn_uu ; G 14
+U 2443 ; WX 726 ; N bn_ri ; G 15
+U 2444 ; WX 538 ; N bn_li ; G 16
+U 2447 ; WX 696 ; N bn_e ; G 17
+U 2448 ; WX 726 ; N bn_ai ; G 18
+U 2451 ; WX 662 ; N bn_o ; G 19
+U 2452 ; WX 744 ; N bn_au ; G 20
+U 2453 ; WX 685 ; N bn_ka ; G 21
+U 2454 ; WX 583 ; N bn_kha ; G 22
+U 2455 ; WX 582 ; N bn_ga ; G 23
+U 2456 ; WX 565 ; N bn_gha ; G 24
+U 2457 ; WX 548 ; N bn_nga ; G 25
+U 2458 ; WX 490 ; N bn_cha ; G 26
+U 2459 ; WX 542 ; N bn_chha ; G 27
+U 2460 ; WX 710 ; N bn_ja ; G 28
+U 2461 ; WX 662 ; N bn_jha ; G 29
+U 2462 ; WX 926 ; N bn_nya ; G 30
+U 2463 ; WX 497 ; N bn_Ta ; G 31
+U 2464 ; WX 486 ; N bn_Tha ; G 32
+U 2465 ; WX 627 ; N bn_Da ; G 33
+U 2466 ; WX 498 ; N bn_Dha ; G 34
+U 2467 ; WX 527 ; N bn_Na ; G 35
+U 2468 ; WX 662 ; N bn_ta ; G 36
+U 2469 ; WX 550 ; N bn_tha ; G 37
+U 2470 ; WX 574 ; N bn_da ; G 38
+U 2471 ; WX 539 ; N bn_dha ; G 39
+U 2472 ; WX 538 ; N bn_na ; G 40
+U 2474 ; WX 631 ; N bn_pa ; G 41
+U 2475 ; WX 702 ; N bn_pha ; G 42
+U 2476 ; WX 533 ; N bn_ba ; G 43
+U 2477 ; WX 641 ; N bn_bha ; G 44
+U 2478 ; WX 566 ; N bn_ma ; G 45
+U 2479 ; WX 534 ; N bn_ya ; G 46
+U 2480 ; WX 496 ; N bn_ra ; G 47
+U 2482 ; WX 601 ; N bn_la ; G 48
+U 2486 ; WX 625 ; N bn_sha ; G 49
+U 2487 ; WX 519 ; N bn_Sha ; G 50
+U 2488 ; WX 610 ; N bn_sa ; G 51
+U 2489 ; WX 504 ; N bn_ha ; G 52
+U 2492 ; WX 358 ; N bn_nukta ; G 53
+U 2493 ; WX 296 ; N uni09BD ; G 391
+U 2494 ; WX 243 ; N bn_aakaar ; G 54
+U 2495 ; WX 228 ; N bn_ikaar ; G 55
+U 2496 ; WX 243 ; N bn_iikaar ; G 56
+U 2497 ; WX 1 ; N bn_ukaar ; G 57
+U 2498 ; WX 1 ; N bn_uukaar ; G 58
+U 2499 ; WX 1 ; N bn_rikaar ; G 59
+U 2500 ; WX 1 ; N bn_rrikaar ; G 60
+U 2503 ; WX 354 ; N bn_ekaar ; G 61
+U 2504 ; WX 347 ; N bn_aikaar ; G 62
+U 2507 ; WX 521 ; N bn_okaar ; G 63
+U 2508 ; WX 521 ; N bn_aukaar ; G 64
+U 2509 ; WX 1 ; N bn_hasanta ; G 65
+U 2510 ; WX 490 ; N KhandaTa ; G 390
+U 2519 ; WX 263 ; N bn_auMark ; G 66
+U 2524 ; WX 629 ; N bn_Ra ; G 67
+U 2525 ; WX 505 ; N bn_Rha ; G 68
+U 2527 ; WX 528 ; N bn_Ya ; G 69
+U 2528 ; WX 709 ; N bn_rri ; G 70
+U 2529 ; WX 653 ; N bn_lli ; G 71
+U 2530 ; WX 272 ; N bn_likaar ; G 72
+U 2531 ; WX 547 ; N bn_llikaar ; G 73
+U 2534 ; WX 601 ; N bn_shunya ; G 74
+U 2535 ; WX 525 ; N bn_ek ; G 75
+U 2536 ; WX 575 ; N bn_dui ; G 76
+U 2537 ; WX 609 ; N bn_tin ; G 77
+U 2538 ; WX 597 ; N bn_chaar ; G 78
+U 2539 ; WX 601 ; N bn_paanch ; G 79
+U 2540 ; WX 597 ; N bn_chhoi ; G 80
+U 2541 ; WX 522 ; N bn_saat ; G 81
+U 2542 ; WX 621 ; N bn_aat ; G 82
+U 2543 ; WX 578 ; N bn_noi ; G 83
+U 2544 ; WX 530 ; N bn_asamiba ; G 84
+U 2545 ; WX 516 ; N bn_asamira ; G 85
+U 2546 ; WX 515 ; N bn_takamark ; G 86
+U 2547 ; WX 460 ; N bn_takasign ; G 87
+U 2548 ; WX 519 ; N bn_currency1 ; G 88
+U 2549 ; WX 574 ; N bn_currency2 ; G 89
+U 2550 ; WX 647 ; N bn_currency3 ; G 90
+U 2551 ; WX 230 ; N bn_currency4 ; G 91
+U 2552 ; WX 465 ; N bn_currency1less ; G 92
+U 2553 ; WX 440 ; N bn_currency16 ; G 93
+U 2554 ; WX 430 ; N bn_isshar ; G 94
+U 8204 ; WX 0 ; N afii61664 ; G 95
+U 8205 ; WX 0 ; N afii301 ; G 96
+U 9676 ; WX 592 ; N uni25CC ; G 97
+EndCharMetrics
+EndFontMetrics

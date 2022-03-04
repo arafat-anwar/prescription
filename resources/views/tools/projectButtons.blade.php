@@ -1,0 +1,4 @@
+<a class="btn btn-sm btn-info text-white" onclick="Show('Project Status #{{ $project->code }}', '{{ url($link.'/'.$project->id) }}?type=status','max-width:80% !important')"><i class="fa fa-tasks text-white"></i></a>
+<a class="btn btn-sm btn-success text-white" onclick="Show('Project Criterias #{{ $project->code }}', '{{ url($link.'/'.$project->id) }}?type=criterias','max-width:80% !important')"><i class="fa fa-cogs text-white"></i></a>
+<a class="btn btn-sm btn-primary text-white" onclick="Show('Project People #{{ $project->code }}', '{{ url($link.'/'.$project->id) }}?type=people','max-width:80% !important')"><i class="fa fa-users text-white"></i></a>
+<a class="btn btn-sm btn-info text-white" href="{{ url('dashboard?project='.$project->id) }}" target="_blank"><i class="fas fa-file-alt text-white"></i></a>
